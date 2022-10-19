@@ -1,3 +1,7 @@
+# Monsters Rolodex React Application 
+![monster-1](https://user-images.githubusercontent.com/10203448/196776223-bcb929fd-352f-440b-aedb-8b6049a88d3b.PNG)
+![monster-search](https://user-images.githubusercontent.com/10203448/196776245-db84acb7-a50c-4966-b96b-df2a2bd37b51.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
